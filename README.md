@@ -1,1 +1,1 @@
-# Probabilidad-Y-Estad-stica-
+# Estadistica
